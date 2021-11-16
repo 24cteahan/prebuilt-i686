@@ -1,12 +1,13 @@
 # prebuilt-i686
  
 ### This is a mixter between a prebuilt gcc reposotory and mingw
-#### gcc: https://drive.google.com/file/d/0B85K_c7mx3QjUnZuaFRPWlBIcXM/edit?resourcekey=0-QZ6H1d0gsc4vLcfvfV7XEA, mingw: https://sourceforge.net/projects/mingw/
+##### gcc: https://drive.google.com/file/d/0B85K_c7mx3QjUnZuaFRPWlBIcXM/edit?resourcekey=0-QZ6H1d0gsc4vLcfvfV7XEA
+##### mingw: https://sourceforge.net/projects/mingw/
 
 
-##--------------------------------------------------
-#Installation
-##--------------------------------------------------
+## --------------------------------------------------
+# Installation
+## --------------------------------------------------
 ##### Note: This is only confirmed to work for windows
 #####
 #### 1. place "ghost-i686-elf-tools" in any directory that will be reffered to as "fpth" for the remainder of the instructions
