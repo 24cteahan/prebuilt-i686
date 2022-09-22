@@ -1,6 +1,6 @@
 # prebuilt-i686
  
-### This is a mixter between a prebuilt [gcc](https://drive.google.com/file/d/0B85K_c7mx3QjUnZuaFRPWlBIcXM/edit?resourcekey=0-QZ6H1d0gsc4vLcfvfV7XEA) reposotory and [MinGW](https://sourceforge.net/projects/mingw/)
+### This is a [gcc](https://drive.google.com/file/d/0B85K_c7mx3QjUnZuaFRPWlBIcXM/edit?resourcekey=0-QZ6H1d0gsc4vLcfvfV7XEA) reposotory with the required [MinGW](https://sourceforge.net/projects/mingw/) libs included
 
 
 ## --------------------------------------------------
